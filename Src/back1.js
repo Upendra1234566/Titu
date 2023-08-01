@@ -11,6 +11,8 @@ const Back1 = (props)=> {
     <View style={{flex:1,justifyContent:`center`,alignItems:`center`, backgroundColor:`skyblue`}}>
     <Text>Back1</Text>
     <Button title="Next" onPress={()=> props.navigation.navigate(`Screen1`)}/>
+    <Button title="Next" onPress={()=> props.navigation.navigate(`Screen1`)}/>
+    <Button title="Next" onPress={()=> props.navigation.navigate(`Screen1`)}/>
 
 
     </View>

@@ -8,6 +8,10 @@ const App = ()=> {
     return(
     <View>
       <Text>hello</Text>
+
+      <Text>hello</Text>
+      <Text>hello</Text>
+      <Text>hello</Text>
     </View>
     
     
